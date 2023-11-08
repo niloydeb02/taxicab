@@ -1,0 +1,364 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+  /*header start*/
+  .header_contact {
+    padding: 9px 0 21px 0;
+   
+    
+}
+.nav_left {
+    margin-bottom: 8px;
+   
+}
+
+.nav_left ul li a {
+   margin-left: 55px;
+    text-align: center;
+  
+    font-size: 14px;
+    
+}
+.nav_right {
+    
+    margin-right: 78px;
+    
+}
+
+.nav_right ul li {
+    font-size: 14px;
+   
+}
+
+.nav_right ul li a i {
+   margin-left: 18px;
+    font-size: 14px;
+   
+}
+
+
+
+
+/*contact header*/
+
+.logo {
+    
+    font-size: 18px;
+   
+}
+.logo_img {
+    width: 30% !important;
+}
+
+.menu{
+   padding: 0 0 0 30px;
+}
+
+.car_img img {
+   
+    top: 0;
+   
+}
+/*header end*/
+
+/*slider start*/
+
+.car_inner{
+	
+	text-align: center;
+}
+
+
+
+.car_indicators {
+	top: 215px;
+    right: -37px;
+}
+
+.c_item {
+    margin: 20px 0;
+}
+
+.c_item h1 {
+    
+    font-size: 25px;
+   
+}
+
+
+.c_item p{
+	
+	
+
+}
+
+/*slider end*/
+
+
+/*about start*/
+.about_text{
+text-align: center;
+
+}
+
+.about_text h2 {
+    
+    font-size: 16px;
+    
+}
+
+.about_text p {
+    padding: 0 15px;
+}
+/*about end*/
+/*feature section start*/
+.f_text h2 {
+    font-size: 20px;
+    
+}
+
+/*feature section end*/
+/* testimonial start*/
+
+.c_heading{
+        font-size: 22px;
+}
+
+/*contact us*/
+.con_text{
+  text-align: center;  
+}
+
+.con_head h1 {
+    
+    font-size: 20px;
+   
+}
+
+
+.con_head h1 i {
+    
+    font-size: 20px;
+    
+}
+
+.cont_item a {
+    
+    font-size: 18px;
+}
+
+.cont_item a i {
+    margin: 0 0 10px 0;
+    padding: 0 8px 0 0px;
+    
+}
+
+/*newsletter start*/
+.f_2 .f_sent i {
+    
+    right: 45px;
+   
+}
+
+/*newsletter end*/
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header start*/
+
+
+.nav_left ul li a {
+        text-align: center;;
+  
+    font-size: 14px;
+    
+}
+
+.nav_right ul li {
+    font-size: 14px;
+   
+}
+
+.nav_right ul li a i {
+    margin-left: 18px;
+    font-size: 14px;
+   
+}
+
+
+
+.menu{
+   padding: 0 0 0 30px;
+}
+
+.car_img img {
+   
+    top: 0;
+   
+}
+/*header end*/
+
+/*slider start*/
+.car_indicators {
+    top: 160px;
+    right: 325px;
+}
+
+.c_item {
+    margin: 0 0;
+}
+
+.c_item p{
+	
+	color:#666;
+
+}
+
+
+
+
+/*slider end*/
+
+/*about start*/
+.about_text{
+text-align: center;
+
+}
+
+.about_text p {
+    padding: 0 20px;
+}
+/*about end*/
+
+/* testimonial start   */
+
+
+.t_heading{
+        font-size: 25px;
+}
+/*contact us*/
+.con_text{
+  text-align: center;  
+}
+
+/*newsletter start*/
+.f_2 .f_sent i {
+    
+    right: 45px;
+   
+}
+
+/*newsletter end*/
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header start*/
+.menu{
+   padding: 0 0 0 25px;
+}
+
+/*header end*/
+
+/*slider start*/
+.slider {
+    padding-bottom: 20px;
+   
+}
+
+.car_indicators {
+    right: 150px;
+}
+
+.c_item h1 {
+    
+    font-size: 25px;
+   
+}
+
+.car_img img{
+
+	padding-top: 70px;
+
+}
+
+/*slider end*/
+
+/*newsletter start*/
+.f_2 .f_sent i {
+    
+    right: 45px;
+   
+}
+
+/*newsletter end*/
+
+
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*slider start	*/
+.slider{
+	padding-bottom: 30px;
+}
+
+.car_indicators {
+    right: 245px;
+}
+/*slider end*/
+
+/*feature section*/
+.s_text h2 {
+    
+    font-size: 18px;
+   
+}
+/*feature section*/
+
+/* testimonial start   */
+
+/*footer start*/
+.f_2 h3 {
+    
+    font-size: 20px;
+    
+}
+
+/*newsletter start*/
+.f_2 .f_sent i {
+    
+    right: 45px;
+   
+}
+
+/*newsletter end*/
+
+ }
+
+/*Extra large devices (desktops, 1200px and up)*/
+@media (min-width:1200px) and (max-width: 1399.98px) { 
+
+
+/* testimonial start   */
+
+/*newsletter start*/
+.f_2 .f_sent i {
+    
+    right: 120px;
+   
+}
+
+/*newsletter end*/
+
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+ }
